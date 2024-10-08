@@ -36,7 +36,7 @@ class Program
             Console.WriteLine("\t\t\t\t\t\t|    10. Quitter                          |");
             Console.WriteLine("\t\t\t\t\t\t+-----------------------------------------+");
 
-            Console.Write("\nEntrez votre choix: ");
+            Console.Write("\n\t\t\t\t\t\tEntrez votre choix: ");
             int choice = Convert.ToInt32(Console.ReadLine());
 
             switch (choice)
