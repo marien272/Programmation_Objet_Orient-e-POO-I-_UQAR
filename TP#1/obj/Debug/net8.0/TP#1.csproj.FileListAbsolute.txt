@@ -1,0 +1,15 @@
+/home/deadstroke/UQAR/Amazing/Programmation_Objet_Orient-e-POO-I-_UQAR/TP#1/bin/Debug/net8.0/TP#1
+/home/deadstroke/UQAR/Amazing/Programmation_Objet_Orient-e-POO-I-_UQAR/TP#1/bin/Debug/net8.0/TP#1.deps.json
+/home/deadstroke/UQAR/Amazing/Programmation_Objet_Orient-e-POO-I-_UQAR/TP#1/bin/Debug/net8.0/TP#1.runtimeconfig.json
+/home/deadstroke/UQAR/Amazing/Programmation_Objet_Orient-e-POO-I-_UQAR/TP#1/bin/Debug/net8.0/TP#1.dll
+/home/deadstroke/UQAR/Amazing/Programmation_Objet_Orient-e-POO-I-_UQAR/TP#1/bin/Debug/net8.0/TP#1.pdb
+/home/deadstroke/UQAR/Amazing/Programmation_Objet_Orient-e-POO-I-_UQAR/TP#1/obj/Debug/net8.0/TP#1.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadstroke/UQAR/Amazing/Programmation_Objet_Orient-e-POO-I-_UQAR/TP#1/obj/Debug/net8.0/TP#1.AssemblyInfoInputs.cache
+/home/deadstroke/UQAR/Amazing/Programmation_Objet_Orient-e-POO-I-_UQAR/TP#1/obj/Debug/net8.0/TP#1.AssemblyInfo.cs
+/home/deadstroke/UQAR/Amazing/Programmation_Objet_Orient-e-POO-I-_UQAR/TP#1/obj/Debug/net8.0/TP#1.csproj.CoreCompileInputs.cache
+/home/deadstroke/UQAR/Amazing/Programmation_Objet_Orient-e-POO-I-_UQAR/TP#1/obj/Debug/net8.0/TP#1.sourcelink.json
+/home/deadstroke/UQAR/Amazing/Programmation_Objet_Orient-e-POO-I-_UQAR/TP#1/obj/Debug/net8.0/TP#1.dll
+/home/deadstroke/UQAR/Amazing/Programmation_Objet_Orient-e-POO-I-_UQAR/TP#1/obj/Debug/net8.0/refint/TP#1.dll
+/home/deadstroke/UQAR/Amazing/Programmation_Objet_Orient-e-POO-I-_UQAR/TP#1/obj/Debug/net8.0/TP#1.pdb
+/home/deadstroke/UQAR/Amazing/Programmation_Objet_Orient-e-POO-I-_UQAR/TP#1/obj/Debug/net8.0/TP#1.genruntimeconfig.cache
+/home/deadstroke/UQAR/Amazing/Programmation_Objet_Orient-e-POO-I-_UQAR/TP#1/obj/Debug/net8.0/ref/TP#1.dll
